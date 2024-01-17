@@ -2,7 +2,7 @@
 
 ### Municipalities within RI
 * Folder name: stateMunicipalities
-*-* Source: [RIGIS](https://www.rigis.org/datasets/municipalities-1997/explore)
+* Source: [RIGIS](https://www.rigis.org/datasets/municipalities-1997/explore)
 
 ### RI U.S. Census Tracts (accessed 2023)
 * Folder name: tl_2023_44_tract
